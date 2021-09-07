@@ -4,9 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:layout_marginLeft="16dp"
     android:orientation="vertical"
-    tools:context=".MainActivity"
-    android:layout_marginLeft="16dp">
+    tools:context=".MainActivity">
 
     <TextView
         android:id="@+id/quantity"
@@ -24,10 +24,10 @@
             android:id="@+id/button_min"
             android:layout_width="48dp"
             android:layout_height="48dp"
-            android:onClick="decrement"
-            android:text="-"
+            android:layout_marginTop="15dp"
             android:layout_marginRight="8dp"
-            android:layout_marginTop="15dp"/>
+            android:onClick="decrement"
+            android:text="-" />
 
         <TextView
             android:id="@+id/quantity_text_view"
@@ -43,10 +43,10 @@
             android:id="@+id/button_plus"
             android:layout_width="48dp"
             android:layout_height="48dp"
-            android:onClick="increment"
-            android:text="+"
             android:layout_marginLeft="8dp"
-            android:layout_marginTop="15dp"/>
+            android:layout_marginTop="15dp"
+            android:onClick="increment"
+            android:text="+" />
     </LinearLayout>
 
     <TextView

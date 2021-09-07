@@ -28,8 +28,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81f5f497-abc8-4c79-8704-b6d7060d4613" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/justjava/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/justjava/MainActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
@@ -57,6 +56,7 @@
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="SerialNumber@245bb94238017ece" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-09-06T08:01:11.883847400Z" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/ui-project" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
@@ -150,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630929575962</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="buttons horizontaal gezet">
+      <created>1630998801966</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1630998801966</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -168,60 +175,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <MESSAGE value="bezig met variabelen" />
-    <option name="LAST_COMMIT_MESSAGE" value="bezig met variabelen" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1630914019433">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1630914019433" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1630930453198">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1630930453198" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1630930453198">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1630930453198" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1630930453198">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1630930453198" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1630930453198">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1630930453198" />
-    <state width="1493" height="210" key="GridCell.Tab.1.bottom" timestamp="1630930453199">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="210" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1630930453199" />
-    <state width="1493" height="210" key="GridCell.Tab.1.center" timestamp="1630930453199">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="210" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1630930453199" />
-    <state width="1493" height="210" key="GridCell.Tab.1.left" timestamp="1630930453198">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="210" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1630930453198" />
-    <state width="1493" height="210" key="GridCell.Tab.1.right" timestamp="1630930453199">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="210" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1630930453199" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1630925819080">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1630925819080" />
-    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1630929577334">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1630929577334" />
-    <state x="471" y="221" key="com.android.tools.idea.run.deployment.SelectMultipleDevicesDialog" timestamp="1630911421731">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="471" y="221" key="com.android.tools.idea.run.deployment.SelectMultipleDevicesDialog/0.0.1536.824@0.0.1536.824" timestamp="1630911421731" />
-    <state x="335" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1630927670340">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="335" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1630927670340" />
+    <MESSAGE value="buttons horizontaal gezet" />
+    <option name="LAST_COMMIT_MESSAGE" value="buttons horizontaal gezet" />
   </component>
 </project>

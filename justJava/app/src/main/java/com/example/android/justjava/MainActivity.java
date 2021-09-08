@@ -22,14 +22,13 @@ public class MainActivity extends AppCompatActivity {
      * This method is called when the order button is clicked.
      */
     public void submitOrder(View view) {
-        int price = quantity * 5;
-        String message ="Total: $" + price;
-        message = message + "\n" + "thank you!";
-        displayMessage(message);
+        int price = calculatePrice();
+        String priceMessage = createOrderSummary(price);
+        displayMessage(priceMessage);
     }
 
     public void increment(View view) {
-        quantity= quantity + 1;
+        quantity = quantity + 1;
         displayquantity(quantity);
     }
 
@@ -41,26 +40,41 @@ public class MainActivity extends AppCompatActivity {
     /**
      * This method displays the given quantity value on the screen.
      */
-    private void displayquantity(int number) {
+    private void displayquantity(int numberOfCoffees) {
         TextView quantityTextView = (TextView) findViewById(
                 R.id.quantity_text_view);
-        quantityTextView.setText("" + number);
-    }
-
-    /**
-     * This method displays the given price on the screen.
-     */
-    private void displayPrice(int number) {
-        TextView priceTextView = (TextView) findViewById(R.id.price_text_view);
-        priceTextView.setText(NumberFormat.getCurrencyInstance().format(number));
+        quantityTextView.setText("" + numberOfCoffees);
     }
 
     /**
      * This method displays the given text on the screen.
      */
     private void displayMessage(String message) {
-        TextView priceTextView = (TextView) findViewById(R.id.price_text_view);
-        priceTextView.setText(message);
+        TextView orderSummaryTextView = (TextView) findViewById(R.id.order_summary_text_view);
+        orderSummaryTextView.setText(message);
+    }
+
+    /**
+     * Calculates the price of the order.
+     *
+     * @return total price
+     */
+    private int calculatePrice() {
+        int price = quantity * 5;
+        return price;
+    }
+
+    /**
+     *
+     * @param price of the order
+     * @return  text summary
+     */
+    private String createOrderSummary(int price) {
+        String priceMessage = "Name: kaptain Kunal";
+        priceMessage = priceMessage + "\nQuantity: " + quantity;
+        priceMessage = priceMessage + "\nTotal: $" + price;
+        priceMessage = priceMessage + "\n" + "thank you!";
+        return priceMessage;
     }
 
 }

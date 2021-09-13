@@ -1,13 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
+ <ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity"
+    >
+
+<LinearLayout
+xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_marginLeft="16dp"
     android:orientation="vertical"
-    tools:context=".MainActivity">
+    >
 
+    <EditText
+        android:id="@+id/textInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Name"
+        android:inputType="textCapWords"/>
+    <TextView
+        android:id="@+id/topping"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="topping"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="16dp"
+        android:textAllCaps="true" />
+
+    <CheckBox
+        android:id="@+id/whipped_cream_checkbox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="24dp"
+        android:text="Whipped cream"
+        android:textSize="16dp"/>
+
+    <CheckBox
+        android:id="@+id/chocolate_checkbox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="24dp"
+        android:text="chocolate "
+        android:textSize="16dp"/>
     <TextView
         android:id="@+id/quantity"
         android:layout_width="wrap_content"
@@ -49,19 +86,7 @@
             android:text="+" />
     </LinearLayout>
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="16dp"
-        android:text="order summary"
-        android:textAllCaps="true" />
 
-    <TextView
-        android:id="@+id/order_summary_text_view"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="16dp"
-        android:text="$0" />
 
     <Button
         android:id="@+id/button_id"
@@ -70,5 +95,5 @@
         android:onClick="submitOrder"
         android:text="order" />
 
-
 </LinearLayout>
+</ScrollView>

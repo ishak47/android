@@ -3,21 +3,13 @@ plugins {
 }
 
 android {
-<<<<<<< Updated upstream
     compileSdk 30
 
     defaultConfig {
         applicationId "com.example.android.miwok"
         minSdk 16
         targetSdk 30
-=======
-    compileSdk 31
 
-    defaultConfig {
-        applicationId "com.example.android.miwok"
-        minSdk 21
-        targetSdk 31
->>>>>>> Stashed changes
         versionCode 1
         versionName "1.0"
 

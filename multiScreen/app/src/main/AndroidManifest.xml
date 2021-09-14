@@ -10,7 +10,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Miwok">
         <activity
-<<<<<<< Updated upstream
             android:name=".PhrasesActivity"
             android:exported="true" />
         <activity
@@ -23,8 +22,6 @@
             android:name=".ColorsActivity"
             android:exported="true" />
         <activity
-=======
->>>>>>> Stashed changes
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

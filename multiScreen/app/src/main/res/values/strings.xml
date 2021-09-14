@@ -1,4 +1,4 @@
-<<<<<<< Updated upstream
+
 <!-- Copyright (C) 2016 The Android Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
@@ -28,9 +28,6 @@
 
     <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
     <string name="category_family">Family Members</string>
+
 </resources>
-=======
-<resources>
-    <string name="app_name">Miwok</string>
-</resources>
->>>>>>> Stashed changes
+

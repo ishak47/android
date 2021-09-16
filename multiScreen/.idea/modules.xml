@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/multiScreen.iml" filepath="$PROJECT_DIR$/.idea/multiScreen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Miwok.iml" filepath="$PROJECT_DIR$/.idea/modules/Miwok.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Miwok.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Miwok.app.iml" />
     </modules>
   </component>
 </project>

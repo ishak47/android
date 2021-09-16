@@ -5,61 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4008178b-bb84-4cef-8b0d-9b36e9d6e9b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/reportCard/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reportCard/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reportCard/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reportCard/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reportCard/app/src/androidTest/java/com/example/android/reportcard/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reportCard/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reportCard/app/src/main/java/com/example/android/reportcard/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reportCard/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reportCard/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reportCard/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reportCard/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reportCard/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reportCard/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reportCard/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reportCard/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reportCard/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reportCard/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reportCard/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reportCard/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reportCard/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reportCard/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reportCard/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reportCard/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reportCard/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reportCard/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reportCard/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reportCard/app/src/test/java/com/example/android/reportcard/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reportCard/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reportCard/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reportCard/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reportCard/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reportCard/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reportCard/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reportCard/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../multiscreenApp/multiscreen/app/src/main/java/com/example/android/miwok/WordAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.0.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.0.2/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/Miwok.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/Miwok.app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/multiScreen.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multiscreenApp/multiscreen/app/src/main/java/com/example/android/miwok/ColorsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multiscreenApp/multiscreen/app/src/main/java/com/example/android/miwok/ColorsActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multiscreenApp/multiscreen/app/src/main/java/com/example/android/miwok/FamilyActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multiscreenApp/multiscreen/app/src/main/java/com/example/android/miwok/FamilyActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multiscreenApp/multiscreen/app/src/main/java/com/example/android/miwok/NumbersActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multiscreenApp/multiscreen/app/src/main/java/com/example/android/miwok/NumbersActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multiscreenApp/multiscreen/app/src/main/java/com/example/android/miwok/PhrasesActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multiscreenApp/multiscreen/app/src/main/java/com/example/android/miwok/PhrasesActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multiscreenApp/multiscreen/app/src/main/java/com/example/android/miwok/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multiscreenApp/multiscreen/app/src/main/java/com/example/android/miwok/Word.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multiscreenApp/multiscreen/app/src/main/res/layout/activity_numbers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../multiscreenApp/multiscreen/app/src/main/res/layout/word_list.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[245bb94238017ece]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\ishak\.android\avd\Pixel_3a_API_30_x86.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -77,6 +31,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../multiscreenApp" />
   </component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
@@ -159,5 +114,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
